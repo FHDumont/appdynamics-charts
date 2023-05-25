@@ -58,6 +58,7 @@ agent:
   enableContainerAsHostID: false
   netviz: false
   netvizPort: 3892
+  machineAgentPort: 9091
   netvizImage:
     repository: docker.io/appdynamics/machine-agent-netviz
     tag: latest
