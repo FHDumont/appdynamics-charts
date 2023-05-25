@@ -1,6 +1,6 @@
 daemonset:
   enabled: true
-  port: 9090
+  port: 9091
   image:
     repository: docker.io/appdynamics/machine-agent-analytics
     tag: latest
