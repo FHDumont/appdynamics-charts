@@ -3,7 +3,7 @@ name: o2-k8s-monitoring
 
 description: Sophisticated helm chart to deploy clustermon as a deployment, otel collector, infra manager, containermon, servermon and log collector as a daemonset.
 home: https://appdynamics.com
-icon: https://raw.githubusercontent.com/CiscoDevNet/appdynamics-charts/master/logo.png
+icon: https://raw.githubusercontent.com/FHDumont/appdynamics-charts/master/logo.png
 
 version: 0.5.0
 
